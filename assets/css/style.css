@@ -750,6 +750,7 @@ a:hover {
   height: 100vh;
   position: relative;
   color: #fff;
+  background-color: black
 }
 
 .hero .hero-content {
